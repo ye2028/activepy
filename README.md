@@ -1,4 +1,5 @@
-Set-ExecutionPolicy -Scope CurrentUser Unrestricted
+```Set-ExecutionPolicy -Scope CurrentUser Unrestricted```
 
 ```.\.venv\Scripts\Activate```
-or    ```.\venv\Scripts\Activate```
+or    
+```.\venv\Scripts\Activate```
