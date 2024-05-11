@@ -3,3 +3,6 @@
 ```.\.venv\Scripts\Activate```
 or    
 ```.\venv\Scripts\Activate```
+or
+
+```& .\venv\Scripts\Activate.ps1```
